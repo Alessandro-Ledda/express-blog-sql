@@ -13,4 +13,4 @@ connection.connect((err) => {
     console.log("connection to MySQL!!")
 });
 
-module.exports = HTMLFormControlsCollection;
+module.exports = connection;
